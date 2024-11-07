@@ -15,20 +15,20 @@ In today's digital age, music is more accessible than ever before. With a vast l
 ## Installation
 1. Clone the Repository
    
-bash
+``bash
 Copy code
 git clone https://github.com/your-username/AlbumVibe.git
 cd AlbumVibe
 
 3. Install Dependencies
    
-bash
+``bash
 Copy code
 flutter pub get
 
 4. Run the App
 
-bash
+``bash
 Copy code
 flutter run
 
