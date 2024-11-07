@@ -9,6 +9,7 @@ In today's digital age, music is more accessible than ever before. With a vast l
 - [ ] **Album Discovery**: Browse a vast catalog of music albums, including popular, trending, and new releases. You can filter and search by genre, artist, release year, and more.
 - [ ] **Album Rating and Review**: The ability to rate an album from 0 to 100 and write a detailed review so that everyone can know what are your thoughts.
 - [ ] **Community & Social Interaction**: Able to add friends and see what your friends like and don't like.
+- [ ] **Spotify API**: The application uses sportify API to create 
 
 ## Competition
 
